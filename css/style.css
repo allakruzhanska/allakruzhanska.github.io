@@ -29,14 +29,22 @@ body{
   text-align: center;
   color: white;
 }
-  .social a {
+.social a{
   	color: #6c757d;
   	font-size: 45px;
   	line-height: 100px;
   	text-align: center;
+    width: 500px:;
   }
+/*.footer a {
+  color:#20c997;
+}
+.footer a:hover{
+  color: red;
+}*/
   .social a:hover {
   	color: #ffc107;
+
   }
   .soc_text{
   	font-size: 15px;
@@ -67,8 +75,10 @@ body{
 .tabs p{
   font-size:14px;
 }
-
-.tabs a{
+.alla {
+color: white;
+} 
+.tabs-a{
   font-size:15px;
   font-family:OpenSans,sans-serif;
   font-weight:700;
@@ -89,4 +99,10 @@ body{
 
 .tabs li.active {
   background-color:#ff8b38;
+}
+.section1{
+  background: #FDBDB0;
+}
+.section3{
+  background: #343a40;
 }
