@@ -85,7 +85,9 @@ color: white;
   color:#fff;
   padding:30px;
 }
-
+.travel {
+  margin-top:60px;
+}
 .tabs li {
   background-color:#333;
   margin-top:1px;
